@@ -3,19 +3,19 @@
     {
       "id": 1,
       "title": "Bofuri",
-      "image": "https://i0.wp.com/twincitiesgeek.com/wp-content/uploads/2020/03/bofuri.jpg?resize=600%2C600&ssl=1",
+      "imgUrl": "https://i0.wp.com/twincitiesgeek.com/wp-content/uploads/2020/03/bofuri.jpg?resize=600%2C600&ssl=1",
       "Deskripsi": "Bofuri adsasd"
     },
     {
       "id": 2,
         "title": "Haikyu",
-      "image": "https://i0.wp.com/twincitiesgeek.com/wp-content/uploads/2020/03/bofuri.jpg?resize=600%2C600&ssl=1",
+      "imgUrl": "https://i0.wp.com/twincitiesgeek.com/wp-content/uploads/2020/03/bofuri.jpg?resize=600%2C600&ssl=1",
       "Deskripsi": "Haikyua asdasd"
     },
     {
       "id": 3,
       "title": "Kuroko",
-      "image": "https://i0.wp.com/twincitiesgeek.com/wp-content/uploads/2020/03/bofuri.jpg?resize=600%2C600&ssl=1",
+      "imgUrl": "https://i0.wp.com/twincitiesgeek.com/wp-content/uploads/2020/03/bofuri.jpg?resize=600%2C600&ssl=1",
       "Deskripsi": "Kuroko asdasd"
     }
   ],
