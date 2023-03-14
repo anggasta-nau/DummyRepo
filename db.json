@@ -1,1 +1,46 @@
+{
+  "List": [
+    {
+      "id": 1,
+      "title": "Bofuri",
+      "image": "https://i0.wp.com/twincitiesgeek.com/wp-content/uploads/2020/03/bofuri.jpg?resize=600%2C600&ssl=1",
+      "Deskripsi": "Bofuri adsasd"
+    },
+    {
+      "id": 2,
+        "title": "Haikyu",
+      "image": "https://i0.wp.com/twincitiesgeek.com/wp-content/uploads/2020/03/bofuri.jpg?resize=600%2C600&ssl=1",
+      "Deskripsi": "Haikyua asdasd"
+    },
+    {
+      "id": 3,
+      "title": "Kuroko",
+      "image": "https://i0.wp.com/twincitiesgeek.com/wp-content/uploads/2020/03/bofuri.jpg?resize=600%2C600&ssl=1",
+      "Deskripsi": "Kuroko asdasd"
+    }
+  ],
+  "List": [
+    {
+      "id": 1,
+      "title": "Bofuri",
+      "image": "https://static.wikia.nocookie.net/virtualyoutuber/images/4/47/Taka_Radjiman_Portrait.png/revision/latest?cb=20210620091315&path-prefix=id",
+      "Deskripsi": "Bofuri adsasd"
+    },
+    {
+      "id": 2,
+        "title": "Haikyu",
+      "image": "https://static.wikia.nocookie.net/virtualyoutuber/images/4/47/Taka_Radjiman_Portrait.png/revision/latest?cb=20210620091315&path-prefix=id",
+      "Deskripsi": "Haikyua asdasd"
+    },
+    {
+      "id": 3,
+      "title": "Kuroko",
+      "image": "https://static.wikia.nocookie.net/virtualyoutuber/images/4/47/Taka_Radjiman_Portrait.png/revision/latest?cb=20210620091315&path-prefix=id",
+      "Deskripsi": "Kuroko asdasd"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
 
