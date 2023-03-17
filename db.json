@@ -1,42 +1,69 @@
 {
-  "List": [
+   "List": [
     {
       "id": 1,
       "title": "Bofuri",
-      "imgUrl": "https://i.imgur.com/QsjHoEu.png",
-      "Deskripsi": "Bofuri adsasd"
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/1579/113812.jpg",
+      "genre" : "Action,Adventure,Comedy,Fantasy",
+      "Deskripsi": "Bofuri's story centers on Kaede Honjou, who is invited by her friend Risa Shiramine to play the VRMMO game NewWorld Online with her. While Kaede doesn't dislike games, what she really, truly dislikes is being in pain. She creates a character named Maple, and decides to put all her points in VIT to minimize pain."
     },
     {
       "id": 2,
-        "title": "Haikyu",
-      "imgUrl": "https://i0.wp.com/twincitiesgeek.com/wp-content/uploads/2020/03/bofuri.jpg?resize=600%2C600&ssl=1",
-      "Deskripsi": "Haikyua asdasd"
+        "title": "Haikyuu!",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/7/76014.jpg",
+      "genre": "Sports",
+      "Deskripsi": "Ever since having witnessed the Little Giant and his astonishing skills on the volleyball court, Shouyou Hinata has been bewitched by the dynamic nature of the sport. Even though his attempt to make his debut as a volleyball regular during a middle school tournament went up in flames, he longs to prove that his less-than-impressive height ceases to be a hindrance in the face of his sheer will and perseverance."
     },
     {
       "id": 3,
-      "title": "Kuroko",
-      "imgUrl": "https://i0.wp.com/twincitiesgeek.com/wp-content/uploads/2020/03/bofuri.jpg?resize=600%2C600&ssl=1",
-      "Deskripsi": "Kuroko asdasd"
+      "title": "Kuroko no Basket",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/11/50453.jpg",
+      "genre": "Sports",
+      "Deskripsi": "For the last three years, Teikou Middle School has dominated the national basketball scene with its legendary lineup: the Generation of Miracles. It consisted of five prodigies who excelled at the sport, but a Phantom Sixth Man lurked in the shadows and helped earn the team their revered status. Eventually, their monstrous growth jaded them from the sport they loved and made them go their separate ways in high school."
+    },
+    {
+      "id": 4,
+      "title": "Vinland Saga",
+      "image": "https://cdn.myanimelist.net/images/anime/1170/124312.jpg",
+      "genre": "Action,Adventure,Drama",
+      "Deskripsi": "After his father's death and the destruction of his village at the hands of English raiders, Einar wishes for a peaceful life with his family on their newly rebuilt farms. However, fate has other plans: his village is invaded once again. Einar watches helplessly as the marauding Danes burn his lands and slaughter his family. The invaders capture Einar and take him back to Denmark as a slave."
+    },
+    {
+      "id": 5,
+        "title": "The Misfit of Demon King Academy Ⅱ",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/1471/128323.jpg",
+      "genre": "Action,Fantasy",
+      "Deskripsi": "As peace returns to the demon realm, Anos Voldigoad wishes nothing more than to put his reputation as the Demon King of Tyranny to rest and go back to being a misfit at the prestigious Demon King Academy. Unfortunately, any tranquility is fleeting: sinister demons, kings, and deities plot Anos's demise from the shadows."
+    },
+    {
+      "id": 6,
+      "title": "Tomo-chan Is a Girl!",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/1444/131828.jpg",
+      "genre": "Comedy, Romance",
+      "Deskripsi": "At the start of their first year of high school, Tomo confesses her feelings to Jun. However, her rough mannerisms and lack of hesitance to throw a punch do nothing to sway Jun's heart. Realizing that he will remain indifferent to her affections unless she does something about it, Tomo must find a way to knock some sense into Jun and open his eyes to what is right in front of him."
     }
   ],
-  "Group": [
+  "Trend": [
     {
       "id": 1,
-      "title": "Bofuri",
-      "image": "https://static.wikia.nocookie.net/virtualyoutuber/images/4/47/Taka_Radjiman_Portrait.png/revision/latest?cb=20210620091315&path-prefix=id",
-      "Deskripsi": "Bofuri "
+      "title": "Vinland Saga",
+      "image": "https://cdn.myanimelist.net/images/anime/1170/124312.jpg",
+      "genre": "Action,Adventure,Drama",
+      "Deskripsi": "After his father's death and the destruction of his village at the hands of English raiders, Einar wishes for a peaceful life with his family on their newly rebuilt farms. However, fate has other plans: his village is invaded once again. Einar watches helplessly as the marauding Danes burn his lands and slaughter his family. The invaders capture Einar and take him back to Denmark as a slave."
     },
     {
       "id": 2,
-        "title": "Haikyu",
-      "image": "https://static.wikia.nocookie.net/virtualyoutuber/images/4/47/Taka_Radjiman_Portrait.png/revision/latest?cb=20210620091315&path-prefix=id",
-      "Deskripsi": "Haikyua "
+        "title": "The Misfit of Demon King Academy Ⅱ",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/1471/128323.jpg",
+      "genre": "Action,Fantasy",
+      "Deskripsi": "As peace returns to the demon realm, Anos Voldigoad wishes nothing more than to put his reputation as the Demon King of Tyranny to rest and go back to being a misfit at the prestigious Demon King Academy. Unfortunately, any tranquility is fleeting: sinister demons, kings, and deities plot Anos's demise from the shadows."
     },
     {
       "id": 3,
-      "title": "Kuroko",
-      "image": "https://static.wikia.nocookie.net/virtualyoutuber/images/4/47/Taka_Radjiman_Portrait.png/revision/latest?cb=20210620091315&path-prefix=id",
-      "Deskripsi": "Kuroko "
+      "title": "Tomo-chan Is a Girl!",
+      "imgUrl": "https://cdn.myanimelist.net/images/anime/1444/131828.jpg",
+      "genre": "Comedy, Romance",
+      "Deskripsi": "At the start of their first year of high school, Tomo confesses her feelings to Jun. However, her rough mannerisms and lack of hesitance to throw a punch do nothing to sway Jun's heart. Realizing that he will remain indifferent to her affections unless she does something about it, Tomo must find a way to knock some sense into Jun and open his eyes to what is right in front of him."
     }
   ],
   "profile": {
